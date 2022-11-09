@@ -51,14 +51,13 @@ body {
 }
 .wrapper .header {
   display: grid;
-  grid-template-columns: 160px 1fr 308px;
+  grid-template-columns: 120px 1fr 308px;
   overflow: hidden;
   background-color: var(--gray);
 }
 .wrapper .header .logo {
-  margin: 5px 5px 5px 35px;
+  margin: 2px 2px 2px 10px;
   align-self: center;
-  width: 85px;
 }
 .wrapper .header .slogan {
   color: #e2e6f3;
