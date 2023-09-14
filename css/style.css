@@ -79,7 +79,7 @@ body {
     content       : "";
     width         : 20px;
     height        : 20px;
-    background    : url(/image/phone_icon.png) no-repeat center center;
+    background    : url(./image/phone_icon.png) no-repeat center center;
     display       : inline-block;
     vertical-align: middle;
     margin-right  : 10px;
